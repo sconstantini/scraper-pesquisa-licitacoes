@@ -6,7 +6,7 @@ import pandas as pd
 import requests
 from bs4 import BeautifulSoup
 import lxml.etree as xml
-pip install selenium
+#pip install selenium
 apt-get update # to update ubuntu to correctly run apt install
 apt install chromium-chromedriver
 cp /usr/lib/chromium-browser/chromedriver /usr/bin
