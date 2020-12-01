@@ -1,5 +1,6 @@
-pip install requests
-pip install beautifulsoup4
+#pip install requests
+#pip install beautifulsoup4
+#coloquei uma frase de teste
 import numpy as np
 import pandas as pd
 import requests
